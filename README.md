@@ -37,9 +37,7 @@ Ele mostra como converter valores, manipular entrada do usuário e atualizar vis
 
 Adicione aqui uma imagem de exemplo do projeto rodando:
 
-![Preview do Projeto](coloque-o-caminho-da-imagem-aqui.png)
-
-> Substitua `coloque-o-caminho-da-imagem-aqui.png` pelo caminho/URL da sua screenshot.
+![Preview do Projeto](assets/print.jpeg)
 
 ---
 
